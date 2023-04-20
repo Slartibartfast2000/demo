@@ -3,4 +3,4 @@ This is line two of the first file
 
 This is a new line again
 
-this is a line added after the checkout
+# this is some text on the branch
